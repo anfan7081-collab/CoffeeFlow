@@ -1,0 +1,21 @@
+COFFEEFLOW - ETAPA 4
+
+1) Inicie o MySQL Server.
+2) Abra MySQL Workbench e conecte-se ao servidor local.
+3) Abra database/CoffeeFlow.sql e execute o script inteiro.
+4) Confirme que o schema CoffeeFlow foi criado.
+5) No NetBeans: File > Open Project > selecione esta pasta (CoffeeFlow-Etapa4).
+6) Aguarde o Maven baixar o MySQL Connector/J.
+7) Execute Clean and Build e depois Main.java.
+
+CONEXAO PADRAO:
+URL: jdbc:mysql://localhost:3306/CoffeeFlow?serverTimezone=UTC
+Usuario: root
+Senha: vazia
+
+Se o MySQL local usar senha, configure as variáveis de ambiente:
+COFFEEFLOW_DB_USER e COFFEEFLOW_DB_PASSWORD.
+Opcionalmente COFFEEFLOW_DB_URL para outra URL.
+
+IMPORTANTE: O banco precisa estar iniciado e o script SQL executado antes de abrir o programa.
+Veja README.md para detalhes.

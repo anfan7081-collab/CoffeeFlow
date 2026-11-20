@@ -1,0 +1,17 @@
+ETAPA 5 — PUBLICAÇÃO NO GITHUB
+
+1. Crie uma conta em https://github.com (se ainda não tiver).
+2. Crie um repositório público chamado CoffeeFlow.
+3. Não marque a opção de criar README, .gitignore ou licença no site, pois esses arquivos já estão no projeto.
+4. No computador, abra a pasta CoffeeFlow-Etapa4 no GitHub Desktop (Add an Existing Repository) ou use Git Bash.
+5. Faça o primeiro commit com a mensagem: "Adiciona projeto CoffeeFlow".
+6. Publique o repositório (Publish repository / push).
+7. Faça uma alteração pequena e real no README, por exemplo preencher o nome do aluno/equipe; salve e faça outro commit.
+8. Execute um pull/fetch para sincronizar e confirme que o repositório está atualizado.
+9. Tire prints da página principal do repositório e da lista de commits.
+10. Insira os prints no documento de evidências e entregue também uma cópia do README.md.
+
+IMPORTANTE:
+- Não invente commits, prints ou links.
+- Não compartilhe senha, token ou credenciais.
+- O nome do aluno/equipe no README deve ser preenchido antes do primeiro commit.
